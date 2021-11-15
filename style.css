@@ -1,0 +1,166 @@
+.header{
+    height: 250px;
+    background-color: #BAFFC9;
+    margin-bottom: 40px;
+    
+
+}
+.container{
+    min-height: 350px;
+    overflow: hidden;
+}
+.yello{
+    width: 30%;
+    min-height: 410px;
+    background-color: #FFFFBA;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    overflow: hidden;
+
+}
+h2{
+    margin-left: 40px;
+}
+.yello1{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.yello2{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.yello3{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+}
+.yello4{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 50px;
+
+}
+
+
+.orance-blue{
+    width: 30%;
+    min-height: 410px;
+    float: left;
+    margin-right: 30px;
+    overflow: hidden;
+
+}
+.orance{
+    width: 100%;
+    min-height: 150px;
+    margin-bottom: 50px;
+    background-color: #FFDFBA;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: larger;
+
+}
+.blue{
+    width: 100%;
+    min-height: 150px;
+    margin-bottom: 50px;
+    background-color: #BAE1FF;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: larger;
+
+}
+.red{
+    width: 30%;
+    min-height: 410px;
+    background-color: #FFB3BA;
+    float: left;
+    margin-right: 30px;
+
+}
+.red1{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.red2{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.red3{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+}
+.red4{
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: #ffff;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 50px;
+
+}
